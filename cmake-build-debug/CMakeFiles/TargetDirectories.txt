@@ -1,0 +1,3 @@
+C:/Users/fabym/projeto02ORIGINAL/cmake-build-debug/CMakeFiles/projeto02ORIGINAL.dir
+C:/Users/fabym/projeto02ORIGINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabym/projeto02ORIGINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
